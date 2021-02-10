@@ -262,7 +262,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .get-started-btn:hover {
   background: #ffcb05;
-  color: #fff;
+	font-weight: 600;
+  color: #00274c;
 }
 
 @media (max-width: 768px) {
@@ -408,7 +409,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-get-started {
   font-family: "Jost", sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -416,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px 0 0 0;
-  color: #fff;
+  color: #00274c;
   background: #ffcb05;
 }
 
@@ -932,6 +933,7 @@ section {
 .cta .cta-btn:hover {
   background: #ffcb05;
   border: 2px solid #ffcb05;
+	color: #00274c;
 }
 
 @media (max-width: 1024px) {
