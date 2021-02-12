@@ -578,12 +578,12 @@ section {
 # Cliens
 --------------------------------------------------------------*/
 .cliens {
-  padding: 10px 0;
+  padding: 40px 0;
   text-align: center;
 }
 
 .cliens img {
-  max-width: 55%;
+  max-width: 65%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
