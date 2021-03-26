@@ -390,6 +390,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 80vh;
   /* background: #00274c; */
   background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/michiganfootballimage.jpg") fixed center center;
+	background-size: cover;
 }
 
 #hero .container {
@@ -422,6 +423,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0 0 0;
   color: #00274c;
   background: #ffcb05;
+  margin: 10px;
 }
 
 #hero .btn-get-started:hover {
@@ -665,6 +667,10 @@ section {
 
 .about a {
   color: #00274c;
+}
+
+.about a:hover {
+	color: #437eaf;
 }
 
 /*--------------------------------------------------------------

@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/corporation.jpg") fixed center center no-repeat;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/ross.jpg") fixed center center no-repeat;
 	background-size: cover;
 
 }
@@ -431,6 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-watch-video {
+
   font-size: 16px;
   display: inline-block;
   padding: 10px 0 8px 40px;
@@ -799,6 +800,19 @@ section {
   }
 }
 
+#about .btn-get-started {
+  font-family: "Jost", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 28px 11px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px 0 0 0;
+  color: #00274c;
+  background: #ffcb05;
+}
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
@@ -1101,6 +1115,7 @@ section {
 
 .team .member span::after {
   content: '';
+
   position: absolute;
   display: block;
   width: 50px;
