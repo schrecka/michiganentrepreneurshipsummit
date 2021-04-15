@@ -4,3 +4,6 @@
 
 www.michiganentrepreneursummit.com 
 
+if the domain expires, netlify url
+https://sleepy-liskov-b1f300.netlify.app/
+
