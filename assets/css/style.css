@@ -1070,6 +1070,18 @@ section {
   transition: 0.5s;
 }
 
+.team .arrow {
+  border: solid black;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.team .down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
 .team .member .pic {
   overflow: hidden;
   width: 180px;
