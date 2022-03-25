@@ -1341,9 +1341,10 @@ section {
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
-  font-size: 24px;
+  font-size: 40px;
+  display: flex;
   position: absolute;
-  right: 0;
+  right: 48%;
   top: 0;
 }
 
